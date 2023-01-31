@@ -1,0 +1,12 @@
+{
+	"Cenario": {
+		"prefix": ["Cenário", "cnr"],
+		"body": [
+			"Cenário: $1",
+			"\tDado $2",
+			"\tQuando $3",
+			"\tEntão $4"
+		],
+		"description": "Cenário para teste"
+	}
+}

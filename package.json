@@ -1,0 +1,23 @@
+{
+	"name": "snippets-feature-gherkin",
+	"displayName": "Gherkin Snippets em pt-br",
+	"description": "Snippets para autocomplete do gherkin em pt-br",
+	"version": "0.0.1",
+	"publisher": "samuel0072",
+    "pricing": "Free",
+	"engines": {
+		"vscode": "^1.28.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "feature",
+				"path": "./snippets.json"
+			}
+		]
+	}
+    
+}
