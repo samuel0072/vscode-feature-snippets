@@ -28,5 +28,15 @@
 			"\tDado $2"
 		],
 		"description": "Snippets para contexto"
+	},
+	"Funcionalidade": {
+		"prefix": ["Funcionalidade", "fnc"],
+		"body": [
+			"Funcionalidade: $1",
+			"\tComo $2",
+			"\tGostaria $3",
+			"\tPara $4"
+		],
+		"description": "Snippets para funcionalidade"
 	}
 }
