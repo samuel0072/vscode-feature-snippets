@@ -38,5 +38,23 @@
 			"\tPara $4"
 		],
 		"description": "Snippets para funcionalidade"
+	},
+	"Funcionalidade Completa": {
+		"prefix": ["fcc"],
+		"body": [
+			"Funcionalidade: $1",
+			"\tComo $2",
+			"\tGostaria $3",
+			"\tPara $4",
+			"",
+			"\tContexto: $5",
+			"\t\tDado $6",
+			"",
+			"\tCenário: $7",
+			"\t\tE $8",
+			"\t\tQuando $9",
+			"\t\tEntão $10"
+		],
+		"description": "Snippets para funcionalidade com contexto e cenário"
 	}
 }
