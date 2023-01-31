@@ -8,5 +8,17 @@
 			"\tEntão $4"
 		],
 		"description": "Cenário para teste"
+	},
+	"Esquema do Cenário": {
+		"prefix": ["Esquema", "esqcnr"],
+		"body": [
+			"Esquema do Cenário: $1",
+			"\tDado $2",
+			"\tQuando $3",
+			"\tEntão $4",
+			"\tExemplos:",
+			"\t||"
+		],
+		"description": "Snippets para esquema do cenário"
 	}
 }
