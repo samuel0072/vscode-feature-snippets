@@ -20,5 +20,13 @@
 			"\t||"
 		],
 		"description": "Snippets para esquema do cenário"
+	},
+	"Contexto": {
+		"prefix": ["Contexto", "ctx"],
+		"body": [
+			"Contexto: $1",
+			"\tDado $2"
+		],
+		"description": "Snippets para contexto"
 	}
 }
