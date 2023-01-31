@@ -1,5 +1,9 @@
 {
 	"name": "snippets-feature-gherkin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/samuel0072/vscode-feature-snippets.git"
+	},
 	"displayName": "Gherkin Snippets em pt-br",
 	"description": "Snippets para autocomplete do gherkin em pt-br",
 	"version": "0.0.1",
