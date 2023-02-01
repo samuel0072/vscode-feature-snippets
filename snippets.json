@@ -7,7 +7,7 @@
 			"\tQuando $3",
 			"\tEntão $4"
 		],
-		"description": "Cenário para teste"
+		"description": "Cenário com steps padrões"
 	},
 	"Esquema do Cenário": {
 		"prefix": ["Esquema", "esqcnr"],
@@ -20,7 +20,7 @@
 			"\tExemplos:",
 			"\t||"
 		],
-		"description": "Snippets para esquema do cenário"
+		"description": "Esquema do cenário com tabela de exemplos"
 	},
 	"Contexto": {
 		"prefix": ["Contexto", "ctx"],
@@ -28,7 +28,7 @@
 			"Contexto: $1",
 			"\tDado $2"
 		],
-		"description": "Snippets para contexto"
+		"description": "Contexto com um step Dado"
 	},
 	"Funcionalidade": {
 		"prefix": ["Funcionalidade", "fnc"],
@@ -38,7 +38,7 @@
 			"\tGostaria $3",
 			"\tPara $4"
 		],
-		"description": "Snippets para funcionalidade"
+		"description": "Funcionalidade com história de usuário"
 	},
 	"Funcionalidade Completa": {
 		"prefix": ["fcc"],
@@ -56,6 +56,6 @@
 			"\t\tQuando $9",
 			"\t\tEntão $10"
 		],
-		"description": "Snippets para funcionalidade com contexto e cenário"
+		"description": "Funcionalidade com história, contexto e cenário"
 	}
 }
