@@ -14,7 +14,14 @@
 		"vscode": "^1.28.0"
 	},
 	"categories": [
-		"Snippets"
+		"Snippets",
+		"Language Packs",
+		"Testing"
+	],
+	"keywords": [
+		"autocomplete",
+		"gherkin",
+		"template"
 	],
 	"contributes": {
 		"snippets": [
