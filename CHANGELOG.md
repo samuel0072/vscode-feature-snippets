@@ -5,7 +5,7 @@ Todas as alterações notáveis  nesses projeto serão documentadas nesse arquiv
 O formato é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 e esse projeto adere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Não liberado]
+## [0.1.0] - 2023-02-02
 
 ### Adicionado  
 
@@ -17,7 +17,7 @@ e esse projeto adere a [Semantic Versioning](https://semver.org/spec/v2.0.0.html
 
 - Alterado descrição dos snippets da versão anterior para trazer mais clareza
 - Alterado informações na licensa
-
+- Alterado README
 ## [0.0.1] - 2023-01-31
 
 ### Adicionado

@@ -7,7 +7,7 @@
 	"displayName": "Gherkin Snippets em pt-br",
 	"description": "Snippets para autocomplete do gherkin em pt-br",
 	"icon": "images/icon.png",
-	"version": "0.0.1",
+	"version": "0.1.0",
 	"publisher": "samuel0072",
     "pricing": "Free",
 	"engines": {
