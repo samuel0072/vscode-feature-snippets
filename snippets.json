@@ -57,5 +57,24 @@
 			"\t\tEntão $10"
 		],
 		"description": "Funcionalidade com história, contexto e cenário"
+	},
+	"Cenario dentro do contexto": {
+		"prefix": ["cdc"],
+		"body": [
+			"Cenário: $1",
+			"\tE $2",
+			"\tQuando $3",
+			"\tEntão $4"
+		],
+		"description": "Cenário com precondição dentro de contexto"
+	},
+	"Cenário sem precondição": {
+		"prefix": ["csc"],
+		"body": [
+			"Cenário: $1",
+			"\tQuando $2",
+			"\tEntão $3"
+		],
+		"description": "Cenário sem precondição"
 	}
 }
